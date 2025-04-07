@@ -89,7 +89,7 @@ python clematis_gui.py
 ```
 
 As shown in the screenshot, the GUI includes:
-![Clematis GUI Screenshot](images/clematis_gui.png)
+![Clematis GUI Screenshot](images/clematis_GUI.png)
 
 The project now includes a user-friendly graphical interface (GUI) built with PyQt5 that provides an intuitive way to use Clematis. The GUI includes:
 - File selection fields with browse buttons for input PE file and output file
