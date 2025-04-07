@@ -127,4 +127,4 @@ For more details, contact us on Telegram: @hexsecteam
 This software is provided "as is" without any warranty. Use at your own risk. For educational purposes only. The authors are not responsible for any misuse or damage caused by this tool. Users must comply with all applicable laws. 
 
 ## Original Project
-Clematis is a powerful tool that converts PE (Portable Executable) files into position-independent shellcode. The original project can be found at: [GitHub Repository]([https://github.com/hexsecteam/clematis](https://github.com/CBLabresearch/clematis/blob/main/readme.md))
+Clematis is a powerful tool that converts PE (Portable Executable) files into position-independent shellcode. The original project can be found at: [GitHub Repository](https://github.com/CBLabresearch/clematis/blob/main/readme.md)
