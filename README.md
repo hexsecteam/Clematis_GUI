@@ -120,8 +120,16 @@ We specialize in advanced encryption, software security, and penetration testing
 - Facebook: [https://www.facebook.com/hexsexcommunity/](https://www.facebook.com/hexsexcommunity/)
 - YouTube: [https://www.youtube.com/@hex_sec](https://www.youtube.com/@hex_sec)
 
-### Contact
-For more details, contact us on Telegram: @hexsecteam
+Support the HexSec Community
+If you find value in our work and would like to support the HexSec community, you can contribute by making a donation. Your support helps us continue developing innovative and high-quality tools for the cybersecurity and IT community.
+Donate:
+ETH: 0x3E79B73e3ce33c6B860425DCB40c6D2f4F2aC508 
+BTC: bc1qpex9u7x4a6kj4nf6fee7mz54vsv4th2rj2pt30
+
+
+For more details:
+Contact on Telegram: @Hexsecteam
+Group on Telegram: @hexsec_tools
 
 ## Disclaimer
 This software is provided "as is" without any warranty. Use at your own risk. For educational purposes only. The authors are not responsible for any misuse or damage caused by this tool. Users must comply with all applicable laws. 
