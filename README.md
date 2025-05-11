@@ -74,7 +74,7 @@ The project now includes a user-friendly graphical interface (GUI) built with Py
 ## Installation
 1. Clone the repository:
 ```bash
-git clone [[https://github.com/hexsecteam/Clematis_GUI.git]
+git clone https://github.com/hexsecteam/Clematis_GUI.git
 cd clematis
 ```
 
